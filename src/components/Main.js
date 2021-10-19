@@ -164,7 +164,7 @@ const Main = () => {
         <div>
             <div className="headd">
                 <div className="container headd-wrapper">
-                    <h1 className="logo">Mov(i)e it!</h1>
+                    <h1 className="logo">Movie Night</h1>
                     <form id="form" onSubmit={submitHandler}>
                         <input type="text" id="search" className="search" placeholder="Search" onChange={changehandler} />
                     </form>
